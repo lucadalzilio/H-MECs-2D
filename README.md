@@ -7,6 +7,7 @@ Dal Zilio, L.,  Hegyi, B.,  Behr, W. M., Gerya, T. (2022)
 Hydro-mechanical earthquake cycles in a
 poro-visco-elasto-plastic fluid-bearing fault structure
 DOI: https://doi.org/10.1016/j.tecto.2022.229516
+
 =====================================================
 
 This project uses the Eigen library.
@@ -23,7 +24,7 @@ Be aware that you need a valid intel licence to use those.
 
 =====================================================
 
-The c++ version of this simulation works on the EULER cluster only.
+The c++ version of this simulation works on the ETH EULER cluster only.
 To run it on a local device or another cluster, the .sh scripts would need to be changed accordingly.
 
 libraries used:
@@ -39,7 +40,7 @@ some important flags:
 
 =====================================================
 
-To run the code on EULER use the
+To run the code on ETH cluster EULER use the
 ```
 env2lmod
 ```
@@ -48,7 +49,7 @@ and the .sh script provided in the corresponding folder of this project. (These 
 =====================================================
 
 Please use the newest version.
-Older versions can be found int the folder H_MEC_RSF/cpp/old_versions. Be careful using these as not all of them work nor guarantee correct results.
+Older versions can be found int the folder H_MEC_RSF/cpp/previous_versions. Be careful using these as not all of them work nor guarantee correct results.
 
 =====================================================
 
