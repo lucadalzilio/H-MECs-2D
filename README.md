@@ -1,4 +1,4 @@
-# H_MECs_2D
+# H-MECs-2D
 2D Hydro-Mechanical Earthquake Cycle
 
 Computational Earthquake Physics
@@ -8,7 +8,7 @@ Hydro-mechanical earthquake cycles in a
 poro-visco-elasto-plastic fluid-bearing fault structure
 DOI: https://doi.org/10.1016/j.tecto.2022.229516
 
-![examples](https://github.com/lucadalzilio/H_MECs_2D/blob/main/banner/H-MEC_banner.heic)
+![examples](https://github.com/lucadalzilio/H_MECs_2D/blob/main/banner/H-MEC_banner.jpg)
 
 =====================================================
 
